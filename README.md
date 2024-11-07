@@ -4,7 +4,6 @@ I’m a self-taught web developer specializing in the MERN stack (MongoDB, Expre
 
 I love creating dynamic, responsive, and user-friendly websites, with a strong focus on clean code and software quality. My main tech stack includes JavaScript, TypeScript, React, Tailwind CSS, Redux, and Next.js, but I’m always exploring new technologies and improving my skills.
 
-🌱 Currently learning: Docker, Kubernetes, and enhancing my expertise in cloud computing and DevOps practices.
-
-💼 Looking to contribute: Open to collaborating on exciting projects, particularly those that involve modern web technologies and solving real-world challenges.
+🌱 Currently learning: Docker, Kubernetes, and enhancing my expertise in cloud computing and DevOps practices.<br/>
+💼 Looking to contribute: Open to collaborating on exciting projects, particularly those that involve modern web technologies and solving real-world challenges.<br/>
 
