@@ -1,6 +1,6 @@
 ## Hi there! I'm Rafhael Fernando F. Luis 👋
 
-I’m a self-taught web developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js), and I'm passionate about building scalable and efficient web applications. Currently in my final year at AMA University, pursuing a BS in Information Technology.
+I’m a self-taught web developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js), and I'm passionate about building scalable and efficient web applications. Im graduated at AMA UNIVERSITY.
 
 I love creating dynamic, responsive, and user-friendly websites, with a strong focus on clean code and software quality. My main tech stack includes JavaScript, TypeScript, React, NodeJS Tailwind CSS, Redux, and Next.js, Java, Springboot, Angular but I’m always exploring new technologies and improving my skills.
 
