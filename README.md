@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Rafhael Luis<br><br>I love creating **web applications** that are both functional and user-friendly.  <br>My toolkit includes **React.js, Node.js, and PostgreSQL**, and lately I've been diving into **Java Spring Boot**.  <br><br>Always excited to learn something new and improve my coding skills!<br>
+👋 Hey there! I'm Rafhael Luis<br><br>a Fullstack Developer passionate about building functional and user-friendly web applications.  <br>My toolkit includes **React.js, Node.js, and PostgreSQL**, and I’m currently exploring **Java Spring Boot**.  <br><br>Always eager to learn new technologies and level up my coding skills!<br>
 
 
 ## 🌐 Socials:
