@@ -105,26 +105,12 @@ I enjoy solving complex backend problems, designing clean APIs, optimizing appli
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=TryAgain1122&show_icons=true&theme=tokyonight&include_all_commits=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=TryAgain1122&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TryAgain1122&layout=compact&theme=tokyonight)
-
----
+![](https://github-readme-stats.vercel.app/api?username=TryAgain1122&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TryAgain1122&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TryAgain1122&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TryAgain1122&theme=tokyonight)
-
----
-
-![](https://github-profile-trophy.vercel.app/?username=TryAgain1122&theme=tokyonight&margin-w=10&margin-h=10&column=4)
-
----
-
-![](https://komarev.com/ghpvc/?username=TryAgain1122&style=for-the-badge&color=blue)
