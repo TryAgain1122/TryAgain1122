@@ -2,11 +2,11 @@
 
 ### 🚀 Full Stack Engineer | AI Engineer | Cloud & DevOps Enthusiast
 
-I'm a Full Stack Engineer from the Philippines with over 2 years of professional experience building scalable web applications, AI-powered solutions, and cloud infrastructure.
+I'm a Full Stack Engineer from the Philippines passionate about building scalable web applications, AI-powered solutions, and cloud infrastructure.
 
-I specialize in designing modern applications using **Laravel**, **Next.js**, **TypeScript**, **PostgreSQL**, and **Docker**. Recently, I've been focusing on **Retrieval-Augmented Generation (RAG)**, AI assistants, vector search, backend architecture, and AWS cloud deployments.
+My primary stack includes **Laravel**, **Next.js**, **TypeScript**, **PostgreSQL**, and **Docker**. I'm currently expanding my expertise in **AI Engineering**, **Retrieval-Augmented Generation (RAG)**, **LLM Integration**, **AWS Cloud Infrastructure**, and modern backend architecture.
 
-I enjoy solving complex backend challenges, optimizing application performance, building developer-friendly APIs, and creating intuitive user experiences.
+I enjoy solving complex backend problems, designing clean APIs, optimizing application performance, and building software that creates real-world impact.
 
 ---
 
